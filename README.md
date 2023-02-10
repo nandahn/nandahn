@@ -4,20 +4,25 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nandahn&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nandahn&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 <div align="right">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nandahn&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Nandahn github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nandahn&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="NandaHN github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandahn&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<!-- Gif -->
+ <img align="left"
+      height="250" alt="coding-time" src="giphy.gif" class="gif">
 
-
-## Social Media
-<div> 
+<p align="center">Social Media</p>
+<div align="center"> 
 <a href="https://instagram.com/mariafboliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
 ### Studying in this moment:
@@ -26,11 +31,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nandahn}/count.svg" /></p> 
-<br>
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
